@@ -3,15 +3,14 @@ VERSION:2.0
 PRODID:-//Gestion Gîtes//Réservations//FR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Réservations Direct
+X-WR-CALNAME:Disponibilités - Bod e Guichen
 X-WR-TIMEZONE:Europe/Paris
 X-WR-CALDESC:Calendrier des réservations Direct
 BEGIN:VEVENT
 UID:69@gestion-gites.fr
 DTSTART;VALUE=DATE:20270731
 DTEND;VALUE=DATE:20270807
-SUMMARY:Réservation: BEDAIE Blandine - Bod e Guichen
-DESCRIPTION:Client: BEDAIE Blandine\nGîte: Bod e Guichen\nCanal: Direct\nAdultes: 4\nEnfants: 1\nTél: 06 63 05 69 01\nEmail: blandine.bedaie@yahoo.com\nNotes: uid:bookingmood_69@gestion-gites.fr
+SUMMARY:Occupé - Bod e Guichen
 LOCATION:Bod e Guichen
 STATUS:CONFIRMED
 DTSTAMP:20260807T071514
@@ -20,8 +19,7 @@ BEGIN:VEVENT
 UID:164@gestion-gites.fr
 DTSTART;VALUE=DATE:20270506
 DTEND;VALUE=DATE:20270509
-SUMMARY:Réservation: DEVAUX Etienne - Bod e Guichen
-DESCRIPTION:Client: DEVAUX Etienne\nGîte: Bod e Guichen\nCanal: Direct\nAdultes: 3\nEnfants: 1\nTél: 06 83 30 48 66\nEmail: info.devaux@gmail.com\nNotes: uid:bookingmood_164@gestion-gites.fr
+SUMMARY:Occupé - Bod e Guichen
 LOCATION:Bod e Guichen
 STATUS:CONFIRMED
 DTSTAMP:20261008T185345
@@ -30,8 +28,7 @@ BEGIN:VEVENT
 UID:157@gestion-gites.fr
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20270104
-SUMMARY:Fermeture - Bod e Guichen
-DESCRIPTION:Période de fermeture\nGîte: Bod e Guichen\nNotes: Période de fermeture | uid:bookingmood_154@gestion-gites.fr
+SUMMARY:Fermé - Bod e Guichen
 LOCATION:Bod e Guichen
 STATUS:CONFIRMED
 DTSTAMP:20261006T192222
@@ -40,8 +37,7 @@ BEGIN:VEVENT
 UID:104@gestion-gites.fr
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261218
-SUMMARY:Réservation: MULHMEYER Laura - Bod e Guichen
-DESCRIPTION:Client: MULHMEYER Laura\nGîte: Bod e Guichen\nCanal: Direct\nAdultes: 1\nEnfants: 0\nTél: 06 18 28 29 80\nEmail: legendre.laura01@gmail.com\nNotes: uid:bookingmood_104@gestion-gites.fr
+SUMMARY:Occupé - Bod e Guichen
 LOCATION:Bod e Guichen
 STATUS:CONFIRMED
 DTSTAMP:20261004T073649
@@ -50,8 +46,7 @@ BEGIN:VEVENT
 UID:71@gestion-gites.fr
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261116
-SUMMARY:Réservation: TURPAIN Béatrice - Bod e Guichen
-DESCRIPTION:Client: TURPAIN Béatrice\nGîte: Bod e Guichen\nCanal: Direct\nAdultes: 4\nEnfants: 0\nTél: 06 71 13 32 56\nEmail: turpainbeatrice@gmail.com\nAnimal de compagnie: Oui\nNotes: uid:bookingmood_71@gestion-gites.fr
+SUMMARY:Occupé - Bod e Guichen
 LOCATION:Bod e Guichen
 STATUS:CONFIRMED
 DTSTAMP:20260810T105341
@@ -60,8 +55,7 @@ BEGIN:VEVENT
 UID:93@gestion-gites.fr
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261107
-SUMMARY:Réservation: BOIX Georges - Bod e Guichen
-DESCRIPTION:Client: BOIX Georges\nGîte: Bod e Guichen\nCanal: Direct\nAdultes: 2\nEnfants: 0\nEmail: georges.boix@gmail.com\nNotes: uid:bookingmood_93@gestion-gites.fr
+SUMMARY:Occupé - Bod e Guichen
 LOCATION:Bod e Guichen
 STATUS:CONFIRMED
 DTSTAMP:20260922T171030
@@ -70,8 +64,7 @@ BEGIN:VEVENT
 UID:68@gestion-gites.fr
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261024
-SUMMARY:Réservation: DACQUAY Eric - Bod e Guichen
-DESCRIPTION:Client: DACQUAY Eric\nGîte: Bod e Guichen\nCanal: Direct\nAdultes: 2\nEnfants: 0\nTél: 06 52 57 64 75\nEmail: eric.dacquay@free.fr\nNotes: uid:bookingmood_68@gestion-gites.fr
+SUMMARY:Occupé - Bod e Guichen
 LOCATION:Bod e Guichen
 STATUS:CONFIRMED
 DTSTAMP:20260727T223916
@@ -80,8 +73,7 @@ BEGIN:VEVENT
 UID:168@gestion-gites.fr
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261016
-SUMMARY:Réservation: BREARD Thierry - Bod e Guichen
-DESCRIPTION:Client: BREARD Thierry\nGîte: Bod e Guichen\nCanal: Direct\nAdultes: 2\nEnfants: 0\nNotes: Synchronisé depuis Bookingmood (canal détecté: Direct) - uid:bookingmood_163@gestion-gites.fr
+SUMMARY:Occupé - Bod e Guichen
 LOCATION:Bod e Guichen
 STATUS:CONFIRMED
 DTSTAMP:20261017T162950
@@ -90,8 +82,7 @@ BEGIN:VEVENT
 UID:37@gestion-gites.fr
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260930
-SUMMARY:Réservation: GLAVIEUX Alain - Bod e Guichen
-DESCRIPTION:Client: GLAVIEUX Alain\nGîte: Bod e Guichen\nCanal: Direct\nAdultes: 3\nEnfants: 0\nTél: 07 49 44 58 78\nEmail: moonstar62217@gmail.com\nNotes: uid:bookingmood_37@gestion-gites.fr
+SUMMARY:Occupé - Bod e Guichen
 LOCATION:Bod e Guichen
 STATUS:CONFIRMED
 DTSTAMP:20260213T120158
@@ -100,8 +91,7 @@ BEGIN:VEVENT
 UID:28@gestion-gites.fr
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260912
-SUMMARY:Réservation: JUBIEN Catherine - Bod e Guichen
-DESCRIPTION:Client: JUBIEN Catherine\nGîte: Bod e Guichen\nCanal: Direct\nAdultes: 2\nEnfants: 0\nEmail: c.jubien@yahoo.fr\nNotes: uid:bookingmood_28@gestion-gites.fr
+SUMMARY:Occupé - Bod e Guichen
 LOCATION:Bod e Guichen
 STATUS:CONFIRMED
 DTSTAMP:20260205T080313
@@ -110,8 +100,7 @@ BEGIN:VEVENT
 UID:72@gestion-gites.fr
 DTSTART;VALUE=DATE:20260824
 DTEND;VALUE=DATE:20260829
-SUMMARY:Réservation: LANGLADE Bernard - Bod e Guichen
-DESCRIPTION:Client: LANGLADE Bernard\nGîte: Bod e Guichen\nCanal: Direct\nAdultes: 2\nEnfants: 0\nTél: 06 75 86 64 13\nEmail: bernard.langlade1@orange.fr\nAnimal de compagnie: Oui\nNotes: uid:bookingmood_72@gestion-gites.fr
+SUMMARY:Occupé - Bod e Guichen
 LOCATION:Bod e Guichen
 STATUS:CONFIRMED
 DTSTAMP:20260813T145132
@@ -120,8 +109,7 @@ BEGIN:VEVENT
 UID:19@gestion-gites.fr
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260823
-SUMMARY:Réservation: GRASSET Nicolas - Bod e Guichen
-DESCRIPTION:Client: GRASSET Nicolas\nGîte: Bod e Guichen\nCanal: Direct\nAdultes: 2\nEnfants: 1\nTél: 06 48 21 61 16\nEmail: caronico44@sfr.fr\nAnimal de compagnie: Oui\nNotes: Couple + 1 enfant + chien (Bouvier suisse) | uid:bookingmood_19@gestion-gites.fr
+SUMMARY:Occupé - Bod e Guichen
 LOCATION:Bod e Guichen
 STATUS:CONFIRMED
 DTSTAMP:20260203T161732
@@ -130,8 +118,7 @@ BEGIN:VEVENT
 UID:55@gestion-gites.fr
 DTSTART;VALUE=DATE:20260815
 DTEND;VALUE=DATE:20260821
-SUMMARY:Réservation: HOUDE Magali - Bod e Guichen
-DESCRIPTION:Client: HOUDE Magali\nGîte: Bod e Guichen\nCanal: Booking\nAdultes: 2\nEnfants: 2\nEmail: mhoude.846339@guest.booking.com\nAnimal de compagnie: Oui
+SUMMARY:Occupé - Bod e Guichen
 LOCATION:Bod e Guichen
 STATUS:CONFIRMED
 DTSTAMP:20260410T074958
@@ -140,8 +127,7 @@ BEGIN:VEVENT
 UID:33@gestion-gites.fr
 DTSTART;VALUE=DATE:20260808
 DTEND;VALUE=DATE:20260815
-SUMMARY:Réservation: HAMMER Josyane - Bod e Guichen
-DESCRIPTION:Client: HAMMER Josyane\nGîte: Bod e Guichen\nCanal: Direct\nAdultes: 2\nEnfants: 0\nTél: 06 68 66 92 86\nEmail: hammerjosyane@gmail.com\nNotes: Collègue Véro UDAF | uid:bookingmood_33@gestion-gites.fr
+SUMMARY:Occupé - Bod e Guichen
 LOCATION:Bod e Guichen
 STATUS:CONFIRMED
 DTSTAMP:20260206T165916
@@ -150,8 +136,7 @@ BEGIN:VEVENT
 UID:17@gestion-gites.fr
 DTSTART;VALUE=DATE:20260725
 DTEND;VALUE=DATE:20260808
-SUMMARY:Réservation: FLAUSS Bertrand - Bod e Guichen
-DESCRIPTION:Client: FLAUSS Bertrand\nGîte: Bod e Guichen\nCanal: Direct\nAdultes: 2\nEnfants: 2\nTél: 06 52 76 36 77\nEmail: bertrand.flauss@gmail.com\nNotes: uid:bookingmood_17@gestion-gites.fr
+SUMMARY:Occupé - Bod e Guichen
 LOCATION:Bod e Guichen
 STATUS:CONFIRMED
 DTSTAMP:20260129T233126
@@ -160,8 +145,7 @@ BEGIN:VEVENT
 UID:67@gestion-gites.fr
 DTSTART;VALUE=DATE:20260721
 DTEND;VALUE=DATE:20260725
-SUMMARY:Réservation: MARIET Isabelle - Bod e Guichen
-DESCRIPTION:Client: MARIET Isabelle\nGîte: Bod e Guichen\nCanal: Booking\nAdultes: 2\nEnfants: 0\nEmail: imarie.821290@guest.booking.com
+SUMMARY:Occupé - Bod e Guichen
 LOCATION:Bod e Guichen
 STATUS:CONFIRMED
 DTSTAMP:20260719T150243
@@ -170,8 +154,7 @@ BEGIN:VEVENT
 UID:35@gestion-gites.fr
 DTSTART;VALUE=DATE:20260713
 DTEND;VALUE=DATE:20260721
-SUMMARY:Réservation: DELMONT Jean-marie - Bod e Guichen
-DESCRIPTION:Client: DELMONT Jean-marie\nGîte: Bod e Guichen\nCanal: Booking\nAdultes: 3\nEnfants: 0\nEmail: jdelmo.743822@guest.booking.com
+SUMMARY:Occupé - Bod e Guichen
 LOCATION:Bod e Guichen
 STATUS:CONFIRMED
 DTSTAMP:20260208T194153
@@ -180,8 +163,7 @@ BEGIN:VEVENT
 UID:50@gestion-gites.fr
 DTSTART;VALUE=DATE:20260710
 DTEND;VALUE=DATE:20260713
-SUMMARY:Réservation: SORGUS Laurence - Bod e Guichen
-DESCRIPTION:Client: SORGUS Laurence\nGîte: Bod e Guichen\nCanal: Booking\nAdultes: 5\nEnfants: 0\nEmail: lsorgu.214906@guest.booking.com
+SUMMARY:Occupé - Bod e Guichen
 LOCATION:Bod e Guichen
 STATUS:CONFIRMED
 DTSTAMP:20260328T123751
@@ -190,8 +172,7 @@ BEGIN:VEVENT
 UID:16@gestion-gites.fr
 DTSTART;VALUE=DATE:20260622
 DTEND;VALUE=DATE:20260629
-SUMMARY:Réservation: LOISON Martin - Bod e Guichen
-DESCRIPTION:Client: LOISON Martin\nGîte: Bod e Guichen\nCanal: Gîtes de France\nAdultes: 2\nEnfants: 0\nTél: 07 78 67 46 22\nEmail: martin.loison@laposte.net
+SUMMARY:Occupé - Bod e Guichen
 LOCATION:Bod e Guichen
 STATUS:CONFIRMED
 DTSTAMP:20260129T225730
@@ -200,8 +181,7 @@ BEGIN:VEVENT
 UID:14@gestion-gites.fr
 DTSTART;VALUE=DATE:20260612
 DTEND;VALUE=DATE:20260614
-SUMMARY:Réservation: FROISSARD Nicolas - Bod e Guichen
-DESCRIPTION:Client: FROISSARD Nicolas\nGîte: Bod e Guichen\nCanal: Direct\nAdultes: 2\nEnfants: 3\nTél: 06 99 14 12 31\nEmail: nico.ussaujon@gmail.com\nNotes: Tournoi foot Guerlédan | uid:bookingmood_14@gestion-gites.fr
+SUMMARY:Occupé - Bod e Guichen
 LOCATION:Bod e Guichen
 STATUS:CONFIRMED
 DTSTAMP:20260129T225125
@@ -210,8 +190,7 @@ BEGIN:VEVENT
 UID:61@gestion-gites.fr
 DTSTART;VALUE=DATE:20260529
 DTEND;VALUE=DATE:20260531
-SUMMARY:Réservation: LE FAUCHEUR Elise - Bod e Guichen
-DESCRIPTION:Client: LE FAUCHEUR Elise\nGîte: Bod e Guichen\nCanal: Direct\nAdultes: 4\nEnfants: 1\nTél: 06 31 42 26 56\nEmail: elise.lefaucheur@gmail.com\nNotes: uid:bookingmood_61@gestion-gites.fr
+SUMMARY:Occupé - Bod e Guichen
 LOCATION:Bod e Guichen
 STATUS:CONFIRMED
 DTSTAMP:20260511T195624
@@ -220,8 +199,7 @@ BEGIN:VEVENT
 UID:13@gestion-gites.fr
 DTSTART;VALUE=DATE:20260526
 DTEND;VALUE=DATE:20260527
-SUMMARY:Réservation: LIETO Véronique - Bod e Guichen
-DESCRIPTION:Client: LIETO Véronique\nGîte: Bod e Guichen\nCanal: Direct\nAdultes: 4\nEnfants: 0\nTél: 06 83 75 25 12\nEmail: lieto.louis@gmail.com\nNotes: Véronique & Louis
+SUMMARY:Occupé - Bod e Guichen
 +1 couple = 4 adultes
 + serviettes de toilette | uid:bookingmood_13@gestion-gites.fr
 LOCATION:Bod e Guichen
@@ -232,8 +210,7 @@ BEGIN:VEVENT
 UID:12@gestion-gites.fr
 DTSTART;VALUE=DATE:20260522
 DTEND;VALUE=DATE:20260525
-SUMMARY:Réservation: FORGET Sandrine - Bod e Guichen
-DESCRIPTION:Client: FORGET Sandrine\nGîte: Bod e Guichen\nCanal: Direct\nAdultes: 2\nEnfants: 0\nTél: 07 86 12 42 55\nEmail: forgetsandrine@hotmail.fr\nAnimal de compagnie: Oui\nNotes: 1 couple + 2 chiens | uid:bookingmood_12@gestion-gites.fr
+SUMMARY:Occupé - Bod e Guichen
 LOCATION:Bod e Guichen
 STATUS:CONFIRMED
 DTSTAMP:20260129T215943
@@ -242,8 +219,7 @@ BEGIN:VEVENT
 UID:48@gestion-gites.fr
 DTSTART;VALUE=DATE:20260505
 DTEND;VALUE=DATE:20260510
-SUMMARY:Réservation: ERARD Olivier - Bod e Guichen
-DESCRIPTION:Client: ERARD Olivier\nGîte: Bod e Guichen\nCanal: Booking\nAdultes: 2\nEnfants: 0\nEmail: oerard.130992@guest.booking.com\nAnimal de compagnie: Oui\nNotes: 1 couple + 1 cocker  - 
+SUMMARY:Occupé - Bod e Guichen
 LOCATION:Bod e Guichen
 STATUS:CONFIRMED
 DTSTAMP:20260310T141536
@@ -252,8 +228,7 @@ BEGIN:VEVENT
 UID:58@gestion-gites.fr
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260504
-SUMMARY:Réservation: LE PENNEC Patricia - Bod e Guichen
-DESCRIPTION:Client: LE PENNEC Patricia\nGîte: Bod e Guichen\nCanal: Direct\nAdultes: 5\nEnfants: 0\nTél: 07 80 37 27 03\nEmail: patricia.le-pennec@laposte.net\nNotes: uid:bookingmood_58@gestion-gites.fr
+SUMMARY:Occupé - Bod e Guichen
 LOCATION:Bod e Guichen
 STATUS:CONFIRMED
 DTSTAMP:20260427T084939
@@ -262,8 +237,7 @@ BEGIN:VEVENT
 UID:22@gestion-gites.fr
 DTSTART;VALUE=DATE:20260426
 DTEND;VALUE=DATE:20260430
-SUMMARY:Réservation: LE NALINEC Hélène - Bod e Guichen
-DESCRIPTION:Client: LE NALINEC Hélène\nGîte: Bod e Guichen\nCanal: Direct\nAdultes: 2\nEnfants: 0\nTél: 06 34 76 44 66\nEmail: helenelenalinec@gmail.com\nNotes: uid:bookingmood_22@gestion-gites.fr
+SUMMARY:Occupé - Bod e Guichen
 LOCATION:Bod e Guichen
 STATUS:CONFIRMED
 DTSTAMP:20260130T153526
@@ -272,8 +246,7 @@ BEGIN:VEVENT
 UID:20@gestion-gites.fr
 DTSTART;VALUE=DATE:20260403
 DTEND;VALUE=DATE:20260406
-SUMMARY:Réservation: LEGEMBRE Marianne - Bod e Guichen
-DESCRIPTION:Client: LEGEMBRE Marianne\nGîte: Bod e Guichen\nCanal: Direct\nAdultes: 4\nEnfants: 1\nTél: 06 32 15 87 65\nEmail: marianne.legembre@hotmail.fr\nAnimal de compagnie: Oui\nNotes: uid:bookingmood_20@gestion-gites.fr
+SUMMARY:Occupé - Bod e Guichen
 LOCATION:Bod e Guichen
 STATUS:CONFIRMED
 DTSTAMP:20260130T141801
@@ -282,8 +255,7 @@ BEGIN:VEVENT
 UID:36@gestion-gites.fr
 DTSTART;VALUE=DATE:20260327
 DTEND;VALUE=DATE:20260329
-SUMMARY:Réservation: MÉNARD Olivier - Bod e Guichen
-DESCRIPTION:Client: MÉNARD Olivier\nGîte: Bod e Guichen\nCanal: Booking\nAdultes: 3\nEnfants: 0\nEmail: omenar.632262@guest.booking.com
+SUMMARY:Occupé - Bod e Guichen
 LOCATION:Bod e Guichen
 STATUS:CONFIRMED
 DTSTAMP:20260211T210939
@@ -292,8 +264,7 @@ BEGIN:VEVENT
 UID:49@gestion-gites.fr
 DTSTART;VALUE=DATE:20260315
 DTEND;VALUE=DATE:20260320
-SUMMARY:Réservation: HIDALGO Pascal - Bod e Guichen
-DESCRIPTION:Client: HIDALGO Pascal\nGîte: Bod e Guichen\nCanal: Booking\nAdultes: 2\nEnfants: 0\nEmail: phidal.319468@guest.booking.com
+SUMMARY:Occupé - Bod e Guichen
 LOCATION:Bod e Guichen
 STATUS:CONFIRMED
 DTSTAMP:20260313T134101
@@ -302,8 +273,7 @@ BEGIN:VEVENT
 UID:3@gestion-gites.fr
 DTSTART;VALUE=DATE:20260223
 DTEND;VALUE=DATE:20260228
-SUMMARY:Réservation: DACQUAY Eric - Bod e Guichen
-DESCRIPTION:Client: DACQUAY Eric\nGîte: Bod e Guichen\nCanal: Direct\nAdultes: 2\nEnfants: 0\nTél: 06 52 57 64 75\nEmail: eric.dacquay@free.fr\nNotes: uid:bookingmood_3@gestion-gites.fr
+SUMMARY:Occupé - Bod e Guichen
 LOCATION:Bod e Guichen
 STATUS:CONFIRMED
 DTSTAMP:20260129T193543
@@ -312,8 +282,7 @@ BEGIN:VEVENT
 UID:34@gestion-gites.fr
 DTSTART;VALUE=DATE:20260218
 DTEND;VALUE=DATE:20260221
-SUMMARY:Réservation: KERVINIO Pascal - Bod e Guichen
-DESCRIPTION:Client: KERVINIO Pascal\nGîte: Bod e Guichen\nCanal: Booking\nAdultes: 2\nEnfants: 0\nEmail: pkervi.337158@guest.booking.com
+SUMMARY:Occupé - Bod e Guichen
 LOCATION:Bod e Guichen
 STATUS:CONFIRMED
 DTSTAMP:20260208T171331
@@ -322,8 +291,7 @@ BEGIN:VEVENT
 UID:1@gestion-gites.fr
 DTSTART;VALUE=DATE:20260206
 DTEND;VALUE=DATE:20260209
-SUMMARY:Réservation: DACQUAY Thierry - Bod e Guichen
-DESCRIPTION:Client: DACQUAY Thierry\nGîte: Bod e Guichen\nCanal: Direct\nAdultes: 4\nEnfants: 0\nTél: 06 45 67 94 07\nEmail: th.dacquay@wanadoo.fr\nAnimal de compagnie: Oui\nNotes: uid:bookingmood_1@gestion-gites.fr
+SUMMARY:Occupé - Bod e Guichen
 LOCATION:Bod e Guichen
 STATUS:CONFIRMED
 DTSTAMP:20260130T144912
