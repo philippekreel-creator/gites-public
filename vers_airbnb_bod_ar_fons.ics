@@ -1,0 +1,387 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestion Gîtes//Réservations//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Réservations Direct
+X-WR-TIMEZONE:Europe/Paris
+X-WR-CALDESC:Calendrier des réservations Direct
+BEGIN:VEVENT
+UID:94@gestion-gites.fr
+DTSTART;VALUE=DATE:20270809
+DTEND;VALUE=DATE:20270819
+SUMMARY:Réservation: STUBBS Mark - Bod ar Fons
+DESCRIPTION:Client: STUBBS Mark\nGîte: Bod ar Fons\nCanal: Booking\nAdultes: 2\nEnfants: 0\nEmail: mstubb.860646@guest.booking.com\nNotes: uid:booking_cf36cbf2129e9a27ff9e32e34f64a549@booking.com
+LOCATION:Bod ar Fons
+STATUS:CONFIRMED
+DTSTAMP:20260922T235514
+END:VEVENT
+BEGIN:VEVENT
+UID:103@gestion-gites.fr
+DTSTART;VALUE=DATE:20270614
+DTEND;VALUE=DATE:20270625
+SUMMARY:Réservation: PERRIGOT Augustin - Bod ar Fons
+DESCRIPTION:Client: PERRIGOT Augustin\nGîte: Bod ar Fons\nCanal: Direct\nAdultes: 3\nEnfants: 0\nTél: 06 49 88 94 28\nEmail: augustin.perrigotpfc@gmail.com\nNotes: uid:bookingmood_103@gestion-gites.fr
+LOCATION:Bod ar Fons
+STATUS:CONFIRMED
+DTSTAMP:20261002T120511
+END:VEVENT
+BEGIN:VEVENT
+UID:102@gestion-gites.fr
+DTSTART;VALUE=DATE:20270518
+DTEND;VALUE=DATE:20270528
+SUMMARY:Réservation: PERRIGOT Augustin - Bod ar Fons
+DESCRIPTION:Client: PERRIGOT Augustin\nGîte: Bod ar Fons\nCanal: Direct\nAdultes: 3\nEnfants: 0\nTél: 06 49 88 94 28\nEmail: augustin.perrigotpfc@gmail.com\nNotes: uid:bookingmood_102@gestion-gites.fr
+LOCATION:Bod ar Fons
+STATUS:CONFIRMED
+DTSTAMP:20261002T120423
+END:VEVENT
+BEGIN:VEVENT
+UID:165@gestion-gites.fr
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270509
+SUMMARY:Réservation: DEVAUX Etienne - Bod ar Fons
+DESCRIPTION:Client: DEVAUX Etienne\nGîte: Bod ar Fons\nCanal: Direct\nAdultes: 3\nEnfants: 1\nTél: 06 83 30 48 66\nEmail: info.devaux@gmail.com\nNotes: uid:bookingmood_165@gestion-gites.fr
+LOCATION:Bod ar Fons
+STATUS:CONFIRMED
+DTSTAMP:20261008T185359
+END:VEVENT
+BEGIN:VEVENT
+UID:101@gestion-gites.fr
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270326
+SUMMARY:Réservation: PERRIGOT Augustin - Bod ar Fons
+DESCRIPTION:Client: PERRIGOT Augustin\nGîte: Bod ar Fons\nCanal: Direct\nAdultes: 3\nEnfants: 0\nTél: 06 49 88 94 28\nEmail: augustin.perrigotpfc@gmail.com\nNotes: uid:bookingmood_88@gestion-gites.fr | uid:bookingmood_101@gestion-gites.fr
+LOCATION:Bod ar Fons
+STATUS:CONFIRMED
+DTSTAMP:20261002T120308
+END:VEVENT
+BEGIN:VEVENT
+UID:100@gestion-gites.fr
+DTSTART;VALUE=DATE:20270208
+DTEND;VALUE=DATE:20270219
+SUMMARY:Réservation: PERRIGOT Augustin - Bod ar Fons
+DESCRIPTION:Client: PERRIGOT Augustin\nGîte: Bod ar Fons\nCanal: Direct\nAdultes: 3\nEnfants: 0\nTél: 06 49 88 94 28\nEmail: augustin.perrigotpfc@gmail.com\nNotes: uid:bookingmood_100@gestion-gites.fr
+LOCATION:Bod ar Fons
+STATUS:CONFIRMED
+DTSTAMP:20261002T120218
+END:VEVENT
+BEGIN:VEVENT
+UID:99@gestion-gites.fr
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270122
+SUMMARY:Réservation: PERRIGOT Augustin - Bod ar Fons
+DESCRIPTION:Client: PERRIGOT Augustin\nGîte: Bod ar Fons\nCanal: Direct\nAdultes: 3\nEnfants: 0\nTél: 06 49 88 94 28\nEmail: augustin.perrigotpfc@gmail.com\nNotes: uid:bookingmood_84@gestion-gites.fr | uid:bookingmood_99@gestion-gites.fr
+LOCATION:Bod ar Fons
+STATUS:CONFIRMED
+DTSTAMP:20261002T120109
+END:VEVENT
+BEGIN:VEVENT
+UID:158@gestion-gites.fr
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20270104
+SUMMARY:Fermeture - Bod ar Fons
+DESCRIPTION:Période de fermeture\nGîte: Bod ar Fons\nNotes: Période de fermeture | uid:bookingmood_155@gestion-gites.fr | uid:bookingmood_158@gestion-gites.fr
+LOCATION:Bod ar Fons
+STATUS:CONFIRMED
+DTSTAMP:20261006T192241
+END:VEVENT
+BEGIN:VEVENT
+UID:98@gestion-gites.fr
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261211
+SUMMARY:Réservation: PERRIGOT Augustin - Bod ar Fons
+DESCRIPTION:Client: PERRIGOT Augustin\nGîte: Bod ar Fons\nCanal: Direct\nAdultes: 3\nEnfants: 0\nTél: 06 49 88 94 28\nEmail: augustin.perrigotpfc@gmail.com\nNotes: uid:bookingmood_98@gestion-gites.fr
+LOCATION:Bod ar Fons
+STATUS:CONFIRMED
+DTSTAMP:20261002T115911
+END:VEVENT
+BEGIN:VEVENT
+UID:167@gestion-gites.fr
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261113
+SUMMARY:Réservation: THEVENIN Cécile - Bod ar Fons
+DESCRIPTION:Client: THEVENIN Cécile\nGîte: Bod ar Fons\nCanal: Booking\nAdultes: 2\nEnfants: 0\nEmail: ctheve.254337@guest.booking.com\nNotes: Synchronisé depuis Booking (infos saisies manuellement) - uid:booking_015e670018d3a1eead1286ecb9208611@booking.com
+LOCATION:Bod ar Fons
+STATUS:CONFIRMED
+DTSTAMP:20261011T182242
+END:VEVENT
+BEGIN:VEVENT
+UID:97@gestion-gites.fr
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261106
+SUMMARY:Réservation: PERRIGOT Augustin - Bod ar Fons
+DESCRIPTION:Client: PERRIGOT Augustin\nGîte: Bod ar Fons\nCanal: Direct\nAdultes: 3\nEnfants: 0\nTél: 06 49 88 94 28\nEmail: augustin.perrigotpfc@gmail.com\nNotes: uid:bookingmood_97@gestion-gites.fr
+LOCATION:Bod ar Fons
+STATUS:CONFIRMED
+DTSTAMP:20261002T115815
+END:VEVENT
+BEGIN:VEVENT
+UID:73@gestion-gites.fr
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261024
+SUMMARY:Réservation: GUÉGANNO Fabienne - Bod ar Fons
+DESCRIPTION:Client: GUÉGANNO Fabienne\nGîte: Bod ar Fons\nCanal: Direct\nAdultes: 2\nEnfants: 0\nTél: 06 76 12 58 86\nEmail: f.gueganno-work@orange.fr\nAnimal de compagnie: Oui\nNotes: uid:bookingmood_73@gestion-gites.fr
+LOCATION:Bod ar Fons
+STATUS:CONFIRMED
+DTSTAMP:20260817T080406
+END:VEVENT
+BEGIN:VEVENT
+UID:96@gestion-gites.fr
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261012
+SUMMARY:Réservation: CARPUTI Alessandro - Bod ar Fons
+DESCRIPTION:Client: CARPUTI Alessandro\nGîte: Bod ar Fons\nCanal: Direct\nAdultes: 2\nEnfants: 0\nTél: 06 25 83 78 68\nEmail: acarputi@gmail.com\nAnimal de compagnie: Oui\nNotes: uid:bookingmood_96@gestion-gites.fr
+LOCATION:Bod ar Fons
+STATUS:CONFIRMED
+DTSTAMP:20261002T091801
+END:VEVENT
+BEGIN:VEVENT
+UID:76@gestion-gites.fr
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20261002
+SUMMARY:Réservation: PERRIGOT Augustin - Bod ar Fons
+DESCRIPTION:Client: PERRIGOT Augustin\nGîte: Bod ar Fons\nCanal: Direct\nAdultes: 2\nEnfants: 0\nTél: 06 49 88 94 28\nEmail: augustin.perrigotpfc@gmail.com\nNotes: uid:bookingmood_76@gestion-gites.fr
+LOCATION:Bod ar Fons
+STATUS:CONFIRMED
+DTSTAMP:20260918T120342
+END:VEVENT
+BEGIN:VEVENT
+UID:75@gestion-gites.fr
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260925
+SUMMARY:Réservation: PERRIGOT Augustin - Bod ar Fons
+DESCRIPTION:Client: PERRIGOT Augustin\nGîte: Bod ar Fons\nCanal: Direct\nAdultes: 2\nEnfants: 0\nTél: 06 49 88 94 28\nEmail: augustin.perrigotpfc@gmail.com\nNotes: uid:bookingmood_75@gestion-gites.fr
+LOCATION:Bod ar Fons
+STATUS:CONFIRMED
+DTSTAMP:20260918T095910
+END:VEVENT
+BEGIN:VEVENT
+UID:65@gestion-gites.fr
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260919
+SUMMARY:Réservation: VALENTIN Annie - Bod ar Fons
+DESCRIPTION:Client: VALENTIN Annie\nGîte: Bod ar Fons\nCanal: Direct\nAdultes: 2\nEnfants: 0\nTél: 06 16 30 74 18\nEmail: valmau88@gmail.com\nNotes: uid:bookingmood_65@gestion-gites.fr
+LOCATION:Bod ar Fons
+STATUS:CONFIRMED
+DTSTAMP:20260706T094546
+END:VEVENT
+BEGIN:VEVENT
+UID:56@gestion-gites.fr
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260823
+SUMMARY:Réservation: COLIN Baptiste - Bod ar Fons
+DESCRIPTION:Client: COLIN Baptiste\nGîte: Bod ar Fons\nCanal: Booking\nAdultes: 2\nEnfants: 2\nEmail: bcolin.167485@guest.booking.com
+LOCATION:Bod ar Fons
+STATUS:CONFIRMED
+DTSTAMP:20260422T073539
+END:VEVENT
+BEGIN:VEVENT
+UID:10@gestion-gites.fr
+DTSTART;VALUE=DATE:20260809
+DTEND;VALUE=DATE:20260816
+SUMMARY:Réservation: MELIN Nadine - Bod ar Fons
+DESCRIPTION:Client: MELIN Nadine\nGîte: Bod ar Fons\nCanal: Booking\nAdultes: 5\nEnfants: 0\nEmail: nmelin.189059@guest.booking.com\nNotes: Bonjour je souhaiterais savoir si la cour est commune aux deux gîtes svp ? Nous arriverions en fin de journée pour venir voir de la famille et découvrir la région en même temps .Vous souhaitant une agréable journée .
+LOCATION:Bod ar Fons
+STATUS:CONFIRMED
+DTSTAMP:20260129T214103
+END:VEVENT
+BEGIN:VEVENT
+UID:18@gestion-gites.fr
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260807
+SUMMARY:Réservation: BEDAIE Blandine - Bod ar Fons
+DESCRIPTION:Client: BEDAIE Blandine\nGîte: Bod ar Fons\nCanal: Direct\nAdultes: 4\nEnfants: 1\nTél: 06 63 05 69 01\nEmail: blandine.bedaie@yahoo.com\nNotes: 4 adultes et 1 enfant 3 ans
+BEDAIE Blandine 70 ans, mon mari BEDAIE Amar 63 ans, mon fils BEDAIE Erwann 30 ans, ma soeur KERGUEN Nadine  67 ans
+mon petit fils SKAKOUNOFF Marin 4 ans | uid:bookingmood_18@gestion-gites.fr
+LOCATION:Bod ar Fons
+STATUS:CONFIRMED
+DTSTAMP:20260129T233913
+END:VEVENT
+BEGIN:VEVENT
+UID:64@gestion-gites.fr
+DTSTART;VALUE=DATE:20260729
+DTEND;VALUE=DATE:20260801
+SUMMARY:Réservation: OLLU Muriel - Bod ar Fons
+DESCRIPTION:Client: OLLU Muriel\nGîte: Bod ar Fons\nCanal: Direct\nAdultes: 2\nEnfants: 0\nTél: 06 84 12 63 38\nEmail: muriel.ollu@gmail.com\nAnimal de compagnie: Oui\nNotes: uid:bookingmood_64@gestion-gites.fr
+LOCATION:Bod ar Fons
+STATUS:CONFIRMED
+DTSTAMP:20260617T211204
+END:VEVENT
+BEGIN:VEVENT
+UID:66@gestion-gites.fr
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260729
+SUMMARY:Réservation: VIVANCOS Pierre - Bod ar Fons
+DESCRIPTION:Client: VIVANCOS Pierre\nGîte: Bod ar Fons\nCanal: Direct\nAdultes: 2\nEnfants: 1\nTél: 06 43 53 04 56\nEmail: pierrevivancos@free.fr\nNotes: uid:bookingmood_66@gestion-gites.fr
+LOCATION:Bod ar Fons
+STATUS:CONFIRMED
+DTSTAMP:20260710T105259
+END:VEVENT
+BEGIN:VEVENT
+UID:51@gestion-gites.fr
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260713
+SUMMARY:Réservation: SORGUS Laurence - Bod ar Fons
+DESCRIPTION:Client: SORGUS Laurence\nGîte: Bod ar Fons\nCanal: Booking\nAdultes: 4\nEnfants: 0\nEmail: lsorgu.214906@guest.booking.com
+LOCATION:Bod ar Fons
+STATUS:CONFIRMED
+DTSTAMP:20260328T125245
+END:VEVENT
+BEGIN:VEVENT
+UID:9@gestion-gites.fr
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260703
+SUMMARY:Réservation: BALDWIN Penny - Bod ar Fons
+DESCRIPTION:Client: BALDWIN Penny\nGîte: Bod ar Fons\nCanal: Booking\nAdultes: 2\nEnfants: 0\nEmail: pbaldw.559397@guest.booking.com\nAnimal de compagnie: Oui\nNotes: We are planning for a weeks holiday and will be bringing one well behaved dog.
+LOCATION:Bod ar Fons
+STATUS:CONFIRMED
+DTSTAMP:20260129T213552
+END:VEVENT
+BEGIN:VEVENT
+UID:15@gestion-gites.fr
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260614
+SUMMARY:Réservation: FROISSARD Nicolas - Bod ar Fons
+DESCRIPTION:Client: FROISSARD Nicolas\nGîte: Bod ar Fons\nCanal: Direct\nAdultes: 1\nEnfants: 4\nTél: 06 99 14 12 31\nEmail: nico.ussaujon@gmail.com\nNotes: uid:bookingmood_15@gestion-gites.fr
+LOCATION:Bod ar Fons
+STATUS:CONFIRMED
+DTSTAMP:20260129T225354
+END:VEVENT
+BEGIN:VEVENT
+UID:57@gestion-gites.fr
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260607
+SUMMARY:Réservation: LUNET Bernard - Bod ar Fons
+DESCRIPTION:Client: LUNET Bernard\nGîte: Bod ar Fons\nCanal: Direct\nAdultes: 4\nEnfants: 0\nTél: 06 67 47 15 33\nEmail: bernard.lunet@orange.fr\nNotes: uid:bookingmood_57@gestion-gites.fr
+LOCATION:Bod ar Fons
+STATUS:CONFIRMED
+DTSTAMP:20260426T152146
+END:VEVENT
+BEGIN:VEVENT
+UID:39@gestion-gites.fr
+DTSTART;VALUE=DATE:20260523
+DTEND;VALUE=DATE:20260525
+SUMMARY:Réservation: ODIAU Gérald - Bod ar Fons
+DESCRIPTION:Client: ODIAU Gérald\nGîte: Bod ar Fons\nCanal: Booking\nAdultes: 5\nEnfants: 0\nEmail: godiau.885119@guest.booking.com\nAnimal de compagnie: Oui
+LOCATION:Bod ar Fons
+STATUS:CONFIRMED
+DTSTAMP:20260215T175515
+END:VEVENT
+BEGIN:VEVENT
+UID:8@gestion-gites.fr
+DTSTART;VALUE=DATE:20260514
+DTEND;VALUE=DATE:20260517
+SUMMARY:Réservation: DEMASSIEUX Catherine - Bod ar Fons
+DESCRIPTION:Client: DEMASSIEUX Catherine\nGîte: Bod ar Fons\nCanal: Booking\nAdultes: 2\nEnfants: 0\nEmail: cdemas.592237@guest.booking.com\nNotes: Nous venons à Malguenac pour le mariage de mon frère le vendredi 15 mai et votre gîte nous plaît bien.
+Nous venons de Calais et arriverons dans l'après midi.
+Il nous serait agréable que vous acceptiez notre demande.
+bien cordialement,
+Cathy
+LOCATION:Bod ar Fons
+STATUS:CONFIRMED
+DTSTAMP:20260129T213154
+END:VEVENT
+BEGIN:VEVENT
+UID:7@gestion-gites.fr
+DTSTART;VALUE=DATE:20260508
+DTEND;VALUE=DATE:20260510
+SUMMARY:Réservation: ROUGEOT Lorraine - Bod ar Fons
+DESCRIPTION:Client: ROUGEOT Lorraine\nGîte: Bod ar Fons\nCanal: Booking\nAdultes: 3\nEnfants: 1\nEmail: lrouge.773400@guest.booking.com
+LOCATION:Bod ar Fons
+STATUS:CONFIRMED
+DTSTAMP:20260129T212840
+END:VEVENT
+BEGIN:VEVENT
+UID:6@gestion-gites.fr
+DTSTART;VALUE=DATE:20260425
+DTEND;VALUE=DATE:20260427
+SUMMARY:Réservation: SOALHAT Hadrien - Bod ar Fons
+DESCRIPTION:Client: SOALHAT Hadrien\nGîte: Bod ar Fons\nCanal: Booking\nAdultes: 5\nEnfants: 0\nEmail: hsoalh.877961@guest.booking.com\nNotes: Bonjour, nous arriverions en milieu d'après midi, merci et bonne journée
+LOCATION:Bod ar Fons
+STATUS:CONFIRMED
+DTSTAMP:20260129T212416
+END:VEVENT
+BEGIN:VEVENT
+UID:53@gestion-gites.fr
+DTSTART;VALUE=DATE:20260421
+DTEND;VALUE=DATE:20260424
+SUMMARY:Réservation: GUESDON Maël - Bod ar Fons
+DESCRIPTION:Client: GUESDON Maël\nGîte: Bod ar Fons\nCanal: Direct\nAdultes: 2\nEnfants: 0\nTél: 06 88 84 33 65\nNotes: uid:bookingmood_53@gestion-gites.fr
+LOCATION:Bod ar Fons
+STATUS:CONFIRMED
+DTSTAMP:20260329T160545
+END:VEVENT
+BEGIN:VEVENT
+UID:46@gestion-gites.fr
+DTSTART;VALUE=DATE:20260413
+DTEND;VALUE=DATE:20260417
+SUMMARY:Réservation: GUÉGANNO Fabienne - Bod ar Fons
+DESCRIPTION:Client: GUÉGANNO Fabienne\nGîte: Bod ar Fons\nCanal: Direct\nAdultes: 2\nEnfants: 0\nTél: 06 76 12 58 86\nEmail: f.gueganno-work@orange.fr\nAnimal de compagnie: Oui\nNotes: uid:bookingmood_46@gestion-gites.fr
+LOCATION:Bod ar Fons
+STATUS:CONFIRMED
+DTSTAMP:20260306T125311
+END:VEVENT
+BEGIN:VEVENT
+UID:21@gestion-gites.fr
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260406
+SUMMARY:Réservation: LEGEMBRE Marianne - Bod ar Fons
+DESCRIPTION:Client: LEGEMBRE Marianne\nGîte: Bod ar Fons\nCanal: Direct\nAdultes: 4\nEnfants: 0\nTél: 06 32 15 87 65\nEmail: marianne.legembre@hotmail.fr\nNotes: uid:bookingmood_21@gestion-gites.fr
+LOCATION:Bod ar Fons
+STATUS:CONFIRMED
+DTSTAMP:20260130T141850
+END:VEVENT
+BEGIN:VEVENT
+UID:5@gestion-gites.fr
+DTSTART;VALUE=DATE:20260327
+DTEND;VALUE=DATE:20260329
+SUMMARY:Réservation: VINCENT Maxime - Bod ar Fons
+DESCRIPTION:Client: VINCENT Maxime\nGîte: Bod ar Fons\nCanal: Booking\nAdultes: 2\nEnfants: 0\nEmail: mvince.484554@guest.booking.com\nNotes: Bonjour, nous venons du 62 et nous allons participer au Trail TKB de Pontivy.
+Nous sommes un couple accompagné d'une amie.
+Nous arriverons le vendredi après midi afin de nous poser et déposer nos affaires, départ de course à minuit, et nous quitterons le logement le dimanche matin.
+LOCATION:Bod ar Fons
+STATUS:CONFIRMED
+DTSTAMP:20260129T211507
+END:VEVENT
+BEGIN:VEVENT
+UID:47@gestion-gites.fr
+DTSTART;VALUE=DATE:20260318
+DTEND;VALUE=DATE:20260327
+SUMMARY:Réservation: HEYMANN Holger - Bod ar Fons
+DESCRIPTION:Client: HEYMANN Holger\nGîte: Bod ar Fons\nCanal: Booking\nAdultes: 2\nEnfants: 0\nEmail: hheyma.137905@guest.booking.com
+LOCATION:Bod ar Fons
+STATUS:CONFIRMED
+DTSTAMP:20260307T142258
+END:VEVENT
+BEGIN:VEVENT
+UID:40@gestion-gites.fr
+DTSTART;VALUE=DATE:20260310
+DTEND;VALUE=DATE:20260315
+SUMMARY:Réservation: MYSZOR Annie - Bod ar Fons
+DESCRIPTION:Client: MYSZOR Annie\nGîte: Bod ar Fons\nCanal: Direct\nAdultes: 5\nEnfants: 0\nTél: 06 22 05 39 08\nEmail: contact@mercerienanou.fr\nNotes: uid:bookingmood_40@gestion-gites.fr
+LOCATION:Bod ar Fons
+STATUS:CONFIRMED
+DTSTAMP:20260223T092955
+END:VEVENT
+BEGIN:VEVENT
+UID:43@gestion-gites.fr
+DTSTART;VALUE=DATE:20260225
+DTEND;VALUE=DATE:20260227
+SUMMARY:Réservation: DEFONTAINE Adeline - Bod ar Fons
+DESCRIPTION:Client: DEFONTAINE Adeline\nGîte: Bod ar Fons\nCanal: Direct\nAdultes: 2\nEnfants: 1\nTél: 06 47 43 63 00\nEmail: defontaine.adeline@gmail.com\nAnimal de compagnie: Oui\nNotes: uid:bookingmood_43@gestion-gites.fr
+LOCATION:Bod ar Fons
+STATUS:CONFIRMED
+DTSTAMP:20260223T155822
+END:VEVENT
+BEGIN:VEVENT
+UID:2@gestion-gites.fr
+DTSTART;VALUE=DATE:20260212
+DTEND;VALUE=DATE:20260220
+SUMMARY:Réservation: DENIS Jessica - Bod ar Fons
+DESCRIPTION:Client: DENIS Jessica\nGîte: Bod ar Fons\nCanal: Gîtes de France\nAdultes: 2\nEnfants: 0\nTél: 06 11 65 40 12\nEmail: verwaerde.jessica@neuf.fr
+LOCATION:Bod ar Fons
+STATUS:CONFIRMED
+DTSTAMP:20260201T134245
+END:VEVENT
+END:VCALENDAR
