@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="fr"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Disponibilités — Bod e Guichen</title></head><body>
+<!-- Widget disponibilités Bod e Guichen — généré le 03/11/2026 à 19:05 -->
+<style>
+#gw_bod_e_guichen{--libre:#bfe3c0;--occ:#f2a6a0;--ferme:#c9c9c9;--bord:#e4e4e4;
+  display:block;font-family:system-ui,-apple-system,'Segoe UI',sans-serif;
+  color:#333;background:#fff;padding:6px}
+#gw_bod_e_guichen *{box-sizing:border-box;margin:0}
+#gw_bod_e_guichen .nav{display:flex;justify-content:space-between;align-items:center;margin-bottom:6px}
+#gw_bod_e_guichen .nav button{border:1px solid var(--bord);background:#f7f7f7;border-radius:6px;
+  padding:2px 12px;font-size:16px;cursor:pointer}
+#gw_bod_e_guichen .nav button:disabled{opacity:.3;cursor:default}
+#gw_bod_e_guichen .mois-blocs{display:flex;flex-wrap:wrap;gap:10px}
+#gw_bod_e_guichen .bloc{flex:1 1 calc(33% - 10px);min-width:210px}
+#gw_bod_e_guichen .bloc .titre{text-align:center;font-weight:600;font-size:13px;margin-bottom:2px;
+  text-transform:capitalize}
+#gw_bod_e_guichen table{width:100%;border-collapse:collapse;table-layout:fixed}
+#gw_bod_e_guichen th{font-size:10px;color:#999;font-weight:600;padding:1px 0}
+#gw_bod_e_guichen td{border:1px solid var(--bord);text-align:center;font-size:11px;
+  height:22px;padding:0}
+#gw_bod_e_guichen td.v{background:var(--libre)}
+#gw_bod_e_guichen td.o{background:var(--occ);color:#7a1d16}
+#gw_bod_e_guichen td.f{background:var(--ferme);color:#555}
+#gw_bod_e_guichen td.dep{background:linear-gradient(135deg,var(--occ) 50%,var(--libre) 50%)}
+#gw_bod_e_guichen td.arr{background:linear-gradient(135deg,var(--libre) 50%,var(--occ) 50%)}
+#gw_bod_e_guichen td.dep-arr{background:linear-gradient(135deg,var(--occ) 48%,#fff 50%,var(--occ) 52%)}
+#gw_bod_e_guichen td.passe{opacity:.45}
+#gw_bod_e_guichen td.today{outline:2px solid #2c7be5;outline-offset:-2px}
+#gw_bod_e_guichen .leg{display:flex;flex-wrap:wrap;gap:10px;justify-content:center;
+  margin-top:8px;font-size:11px}
+#gw_bod_e_guichen .leg span{display:inline-flex;align-items:center;gap:4px}
+#gw_bod_e_guichen .sw{width:12px;height:12px;border:1px solid var(--bord);display:inline-block}
+#gw_bod_e_guichen .maj{text-align:center;font-size:10px;color:#aaa;margin-top:4px}
+@media(max-width:640px){#gw_bod_e_guichen .bloc{flex-basis:100%}}
+</style>
+<div id="gw_bod_e_guichen">
+<div class="nav"><button class="pv" aria-label="Mois précédents">&#8249;</button>
+<button class="nx" aria-label="Mois suivants">&#8250;</button></div>
+<div class="mois-blocs cal"></div>
+<div class="leg">
+<span><i class="sw" style="background:var(--libre)"></i>Libre</span>
+<span><i class="sw" style="background:var(--occ)"></i>Réservé</span>
+<span><i class="sw" style="background:linear-gradient(135deg,var(--occ) 50%,var(--libre) 50%)"></i>Départ / arrivée</span>
+<span><i class="sw" style="background:var(--ferme)"></i>Fermé</span>
+</div>
+<div class="maj">Disponibilités Bod e Guichen — mise à jour : 03/11/2026 à 19:05</div>
+</div>
+<script>
+(function(){
+var R=document.getElementById('gw_bod_e_guichen');if(!R)return;
+var PERIODES=[{"debut": "2026-02-06", "fin": "2026-02-09", "ferme": false}, {"debut": "2026-02-18", "fin": "2026-02-21", "ferme": false}, {"debut": "2026-02-23", "fin": "2026-02-28", "ferme": false}, {"debut": "2026-03-15", "fin": "2026-03-20", "ferme": false}, {"debut": "2026-03-27", "fin": "2026-03-29", "ferme": false}, {"debut": "2026-04-03", "fin": "2026-04-06", "ferme": false}, {"debut": "2026-04-10", "fin": "2026-04-12", "ferme": false}, {"debut": "2026-04-26", "fin": "2026-04-30", "ferme": false}, {"debut": "2026-05-01", "fin": "2026-05-04", "ferme": false}, {"debut": "2026-05-05", "fin": "2026-05-10", "ferme": false}, {"debut": "2026-05-15", "fin": "2026-05-17", "ferme": false}, {"debut": "2026-05-22", "fin": "2026-05-25", "ferme": false}, {"debut": "2026-05-26", "fin": "2026-05-27", "ferme": false}, {"debut": "2026-05-29", "fin": "2026-05-31", "ferme": false}, {"debut": "2026-06-12", "fin": "2026-06-14", "ferme": false}, {"debut": "2026-06-22", "fin": "2026-06-29", "ferme": false}, {"debut": "2026-07-10", "fin": "2026-07-13", "ferme": false}, {"debut": "2026-07-13", "fin": "2026-07-21", "ferme": false}, {"debut": "2026-07-21", "fin": "2026-07-25", "ferme": false}, {"debut": "2026-07-25", "fin": "2026-08-08", "ferme": false}, {"debut": "2026-08-08", "fin": "2026-08-15", "ferme": false}, {"debut": "2026-08-15", "fin": "2026-08-21", "ferme": false}, {"debut": "2026-08-21", "fin": "2026-08-23", "ferme": false}, {"debut": "2026-08-24", "fin": "2026-08-29", "ferme": false}, {"debut": "2026-09-05", "fin": "2026-09-12", "ferme": false}, {"debut": "2026-09-23", "fin": "2026-09-30", "ferme": false}, {"debut": "2026-10-12", "fin": "2026-10-16", "ferme": false}, {"debut": "2026-10-16", "fin": "2026-10-24", "ferme": false}, {"debut": "2026-10-31", "fin": "2026-11-07", "ferme": false}, {"debut": "2026-11-11", "fin": "2026-11-16", "ferme": false}, {"debut": "2026-11-29", "fin": "2026-12-18", "ferme": false}, {"debut": "2026-12-25", "fin": "2027-01-04", "ferme": true}, {"debut": "2027-05-06", "fin": "2027-05-09", "ferme": false}, {"debut": "2027-07-31", "fin": "2027-08-07", "ferme": false}];
+var NB=3;
+var MOIS=['janvier','février','mars','avril','mai','juin','juillet',
+'août','septembre','octobre','novembre','décembre'];
+var today=new Date();today.setHours(0,0,0,0);
+var debutMin=new Date(today.getFullYear(),today.getMonth(),1);
+var finMax=debutMin;
+PERIODES.forEach(function(p){var d=new Date(p.fin+'T12:00:00');if(d>finMax)finMax=d;});
+finMax=new Date(Math.max(finMax,new Date(debutMin.getFullYear()+1,debutMin.getMonth(),1)));
+var finMaxMois=new Date(finMax.getFullYear(),finMax.getMonth()+2,1);
+var cur=new Date(debutMin);
+function iso(y,m,d){return y+'-'+String(m+1).padStart(2,'0')+'-'+String(d).padStart(2,'0');}
+function etat(dt){
+ var d=iso(dt.getFullYear(),dt.getMonth(),dt.getDate());
+ var arr=false,dep=false,plein=false,ferme=false;
+ for(var i=0;i<PERIODES.length;i++){var p=PERIODES[i];
+   if(p.ferme){
+     if(d>=p.debut&&d<p.fin)ferme=true;}
+   else{
+     if(d>p.debut&&d<p.fin)plein=true;
+     if(d===p.debut)arr=true;
+     if(d===p.fin)dep=true;}}
+ if(ferme)return'f';
+ if(dep&&arr)return'dep-arr';
+ if(dep)return'dep';
+ if(arr)return'arr';
+ if(plein)return'o';
+ return'v';}
+function moisHtml(y,m){
+ var first=new Date(y,m,1);var off=(first.getDay()+6)%7;
+ var dim=new Date(y,m+1,0).getDate();
+ var h='<div class="bloc"><div class="titre">'+MOIS[m]+' '+y+'</div>'
+      +'<table><tr>'+['L','M','M','J','V','S','D'].map(function(j){return'<th>'+j+'</th>';}).join('')+'</tr><tr>';
+ for(var i=0;i<off;i++)h+='<td></td>';
+ for(var d=1;d<=dim;d++){
+   var dt=new Date(y,m,d);var c=etat(dt);
+   var cls=c+(dt<today?' passe':'')+(dt.getTime()===today.getTime()?' today':'');
+   h+='<td class="'+cls+'">'+d+'</td>';
+   if((off+d)%7===0&&d<dim)h+='</tr><tr>';}
+ var tail=(off+dim)%7;if(tail)h+='<td></td>'.repeat(7-tail);
+ return h+'</tr></table></div>';}
+function render(){
+ var h='';
+ for(var i=0;i<NB;i++){
+   var mm=new Date(cur.getFullYear(),cur.getMonth()+i,1);
+   h+=moisHtml(mm.getFullYear(),mm.getMonth());}
+ R.querySelector('.cal').innerHTML=h;
+ R.querySelector('.pv').disabled=cur<=debutMin;
+ R.querySelector('.nx').disabled=cur>=finMaxMois;}
+R.querySelector('.pv').onclick=function(){cur=new Date(cur.getFullYear(),cur.getMonth()-NB,1);render();};
+R.querySelector('.nx').onclick=function(){cur=new Date(cur.getFullYear(),cur.getMonth()+NB,1);render();};
+render();
+})();
+</script>
+</body></html>
